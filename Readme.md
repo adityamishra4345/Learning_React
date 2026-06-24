@@ -1,1 +1,2 @@
-Just Basic React Leanings
+# React
+Basic React Learnings
