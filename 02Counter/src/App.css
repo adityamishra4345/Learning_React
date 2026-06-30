@@ -182,7 +182,7 @@
     border-right-color: var(--border);
   }
 }
-#but{
+.but{
      text-align: center;
      size: 200 px;
      background: rgb(200, 224, 112);
